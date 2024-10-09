@@ -142,6 +142,10 @@
   list-style-type: none;
 }
 
+.recipes__iframe {
+  border: 0;
+}
+
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
@@ -152,9 +156,6 @@
   line-height: 30px;
 }
 
-.iframe {
-  border-width: 0px;
-}
 /*.reservation {
 }
 .menu {
