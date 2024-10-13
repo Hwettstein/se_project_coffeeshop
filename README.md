@@ -1,4 +1,4 @@
-# Triple Peaks Coffee Shop
+# Coder Coffee
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
 
@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Page transitions
+- More elaborate animations
+- Links to the necessary equipment on the recipes page
